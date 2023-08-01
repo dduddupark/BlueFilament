@@ -6,4 +6,4 @@ https://github.com/dduddupark/BlueFilament/assets/45284051/3f63be8a-e71e-44a3-b1
 
 authorship : https://github.com/gabriel-TheCode/android-model-viewer
 
-notion : https://www.notion.so/3D-3820dbb8d248409da399ef0e3fef0634
+guide : https://www.notion.so/3D-3820dbb8d248409da399ef0e3fef0634
